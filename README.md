@@ -1,1 +1,1 @@
-# .github
+# Spintr AB
